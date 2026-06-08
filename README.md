@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # InvestWise
 
 A beginner-friendly ReactJS application for learning about investments and tracking your portfolio. Built with React Router, Tailwind CSS, and Recharts for a clean, responsive UI with green/blue theme.
@@ -20,7 +22,7 @@ A beginner-friendly ReactJS application for learning about investments and track
 
 ## Author / Contributors
 
-Made by Anshika Gaur
+Made by Vishesh Gaur
 
 ## Pages & Functionality
 
@@ -87,11 +89,13 @@ Made by Anshika Gaur
 1. **Clone the repository** (if applicable) or navigate to the project directory.
 
 2. **Install dependencies**:
+
    ```
    npm install
    ```
 
 3. **Start the development server**:
+
    ```
    npm start
    ```
@@ -124,16 +128,13 @@ Made by Anshika Gaur
 ![Calculator Page](public/screenshot-calculator.png)
 ![Crypto Page](public/screenshot-crypto.png)
 
-
-
-
 ## License
 
 This project is licensed under the MIT License.
 
 ## Copyright
 
-© 2025 Anshika Gaur. All rights reserved.
+© 2025 Vishesh Gaur. All rights reserved.
 
 ## License Restriction
 
@@ -141,7 +142,12 @@ This software is provided under a restrictive license that prohibits unauthorize
 
 If you wish to use or modify this project, please contact the author for licensing terms.
 
-
 ## Contact
 
-For questions or feedback, please reach out.
+# For questions or feedback, please reach out.
+
+# investwise
+
+This is my First project React based Git repository
+
+> > > > > > > 3b63403cc3c9c2c9a5f67bcc08ffa6b638efe0e6
