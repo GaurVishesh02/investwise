@@ -123,7 +123,6 @@ Made by Vishesh Gaur
 ## Screenshots
 
 ![Home Page](public/screenshot-home.png)
-![Stocks Page](public/types.png)
 ![Portfolio Page](public/screenshot-portfolio.png)
 ![Calculator Page](public/screenshot-calculator.png)
 ![Crypto Page](public/screenshot-crypto.png)
